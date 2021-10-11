@@ -1,4 +1,4 @@
-### Hey what's up, here's my current status!👋🏾 
+### Hey what's up!👋🏾 
 
 
 My name is Jason! I am a data scientist with a background in business and finance, interested in developing meaningful models, solving complex solutions, and learning from others.
