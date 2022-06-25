@@ -1,4 +1,4 @@
-### Hey what's up!👋🏾 
+### Hey What's Up!👋🏾 
 
 
 My name is Jason! I am a data scientist with a background in business and finance, interested in developing meaningful models, solving complex solutions, and learning from others.
