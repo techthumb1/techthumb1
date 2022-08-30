@@ -1,7 +1,7 @@
-### Hey What's Up!👋🏾 
+### Hi!👋🏾 
 
 
-My name is Jason! I am a data scientist with a background in business and finance, interested in developing meaningful models, solving complex solutions, and learning from others.
+My name is Jason! I am a data scientist with a background in business and finance, interested in developing meaningful models, solving complex solutions, learning from others, and sharing my knowledge.
 
 
 - ⏮️ I previously worked on ...Building DS portfolio with React
