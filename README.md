@@ -6,7 +6,7 @@ My name is Jason! I am a data scientist with a background in business and financ
 
 - ⏮️ I previously worked on ...Time Series Analysis
 - 👨🏾‍💻 I’m currently working on ...Credit Card Fraud Detector
-- 🌱 I’m currently learning ...AWS, Databricks. Scala 
+- 🌱 I’m currently learning ...AWS, Databricks, Scala 
 - 🧩 I’m looking to collaborate on ...Open to any projects
 - 🤔 I’m looking for help with ...Cloud Computing
 - 💬 Ask me about ...Anything
